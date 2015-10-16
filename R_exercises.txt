@@ -1,0 +1,88 @@
+Exercise #1:R Packages
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+>>>1<<<
+
+1. library() : shows list of available packages in our system
+Executing command in R studio listed 'Packages in library '/Library/Frameworks/R.framework/Versions/3.1/Resources/library' contents
+2. search() : shows list of packages currently loaded in our R environment.
+[1] ".GlobalEnv"        "package:C50"       "package:kernlab"   "tools:rstudio"    
+[5] "package:stats"     "package:graphics"  "package:grDevices" "package:utils"    
+[9] "package:datasets"  "package:methods"   "Autoloads"         "package:base"  
+3. Installed packages are list of available packages, whereas, loaded packages are currently availble for R script/commands we run.
+
+-----------------------------------------------------------------------------------------------------------
+>>>2<<<
+
+1. About 6409 packages when last checked.
+2. Contributed packages are orgnized in form of tables where the tables are sorted either according to publishing date or by name
+2.1
+
+
+-----------------------------------------------------------------------------------------------------------
+>>>3<<<
+
+1. R Studio searched for string "sna"
+2. No
+3. Installed from Tools->Install Packages
+3. Man page for Tools for Social Network Analysis pulls up.
+4. Yes.
+5. Loaded using command library(sna)
+
+
+**********************************************************************************************************
+
+**********************************************************************************************************
+
+Exercise #2:R Objects
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+>>>1<<<
+
+1. character(0)
+2. Pulls up available list of demos in packages base, graphics, grDevices, stats.
+3. 
+3.1 Pulls up available list of demos in packages base, graphics, grDevices, httr, lattice, stats, tcltk.
+4
+4.1,4.2 Plots with titles 'Simple Use of Color In a Plot', 'A Sample Color Wheel', 'January Pie Sales', 'Notched Boxplots', 'Distance Between Brownian Motions', 'The Level of Interest in R', '1000 Normal Random Variates', 'A Topographic Map of Maunga Whau'.
+4.3 Data variables were loaded into our R environment
+5. Yes
+5.1 Yes
+
+**********************************************************************************************************
+
+**********************************************************************************************************
+
+Exercise #3:R Elements
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+>>>1<<<
+
+1.
+2.
+2.1 class(pie.sales) -> numeric
+2.2 names(pie.sales) -> "Blueberry", "Cherry", "Apple", "Boston Cream", "Other", "Vanilla Cream"
+3. Done
+3.1 The item is removed from the list
+4.1 Done
+4.2 Empty
+4.3 character(0)
+
+**********************************************************************************************************
+
+**********************************************************************************************************
+
+Exercise #4:Conform the modes
+
+-----------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
+
+1. True
+2. True
+3. True
+4. True
+5. True
+6. True

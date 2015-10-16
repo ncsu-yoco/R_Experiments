@@ -1,0 +1,6 @@
+TEAM	WINS	LOSSES
+Kansas City	54	43
+Minnesota	49 49
+Chicago	49	50
+Cleveland	41	58
+Detroit	26	71
